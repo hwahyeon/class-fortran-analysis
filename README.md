@@ -26,6 +26,7 @@
 
 ## 학습 환경 및 도구
 - GNU Fortran (GCC) 11.4.0
+- MSVC v143 - VS 2022 C++ x64/x86 
 - Python 3.10.11
 - [Fortran magic](https://github.com/mgaitan/fortran_magic) 0.8
 - [LFortran](https://lfortran.org/) 0.29.0
